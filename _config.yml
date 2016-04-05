@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://KentMcqueen.github.io
+title: KentMcqueen
+tagline: A blog of everyday life
+description: My awesome mini diary..
+paginate: 20
